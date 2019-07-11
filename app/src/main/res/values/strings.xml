@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC4.0 Challenge</string>
+    <string name="about">About ALC</string>
+    <string name="profile">My Profile</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="name">Kingsley Chijioke</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="email">Email: erandkings12@gmail.com</string>
+    <string name="phone_number">Phone Number: +2349090823165</string>
+    <string name="slack_username">Slack Username: @Erandkings</string>
+
+</resources>
